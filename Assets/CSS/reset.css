@@ -34,16 +34,29 @@ body {
     #03070b 100%
   ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   background-color: #0d1014;
-  display: grid;
+  display: flex;
   grid-template-columns: auto 1fr;
 }
 
+
+input,
+textarea,
+select{
+
+    width:100%;
+
+}
 
 
 
 img {
   display: block;
   max-width: 100%;
+
+    max-width:100%;
+
+    height:auto;
+
 }
 
 ul,
