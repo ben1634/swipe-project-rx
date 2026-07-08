@@ -6,15 +6,18 @@ When someone opens your project, this is usually the first file they read.-->
 
 
 
-# Todo App
+# Swiper Project Practice
 
-A simple todo application built with HTML, CSS and JavaScript.
+A Project application built with HTML, CSS and JavaScript.
 
 ## Features
 
-- Add tasks
-- Delete tasks
-- Search tasks
+-  Modern FE tools
+- Top notch features 
+- Searchbar
+- Carousel
+- Faq
+- Sidebar with display
 
 ## Folder Structure
 
@@ -30,5 +33,5 @@ assets/
 2. Open index.html
 
 ## Author
-
-Jimmy
+DarkCom Dev
+Black Jimmy.
