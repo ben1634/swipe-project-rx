@@ -1166,7 +1166,7 @@ animation: appearxx linear;
 }
 
 ::view-transition-group(root){
-animation-duration: 3s;
+animation-duration: 1s;
 animation-timing-function: ease;
 
 }
