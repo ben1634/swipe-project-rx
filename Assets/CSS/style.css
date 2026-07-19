@@ -1218,7 +1218,6 @@ z-index: 999;
   display: grid;
   grid-template-columns: 1fr;
   gap: 5px;
-  margin-left: 70px;
 }
 
 
